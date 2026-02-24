@@ -77,8 +77,8 @@ Gayathri Botta
 
 ### 🔐 1. Login Page
 
-![Login Page](screenshot.jpeg)
-
+![Login Page]
+![screenshot2](https://github.com/user-attachments/assets/17b0fc6f-b70b-434e-bcf1-9a92d7dff345)
 This is the secure login interface of the Mini CRM application.  
 Users must enter valid credentials (admin@crm.com / admin123) to access the dashboard. The page features a modern gradient background and clean UI design.
 
@@ -86,7 +86,8 @@ Users must enter valid credentials (admin@crm.com / admin123) to access the dash
 
 ### 📊 2. Dashboard Overview
 
-![Dashboard Page](screenshot1.jpeg)
+![Dashboard Page]
+![screenshot](https://github.com/user-attachments/assets/4667cf85-4c9f-4706-9bbd-5708246510d9)
 
 The Dashboard provides a summary of CRM statistics including Total Leads, New Leads, Contacted Leads, Converted Leads, and Conversion Rate.  
 Users can also quickly add new leads using the input fields provided.
@@ -95,8 +96,8 @@ Users can also quickly add new leads using the input fields provided.
 
 ### 📋 3. Leads Management Page
 
-![Leads Page](screenshot2.jpeg)
-
+![Leads Page]!
+[screenshot3](https://github.com/user-attachments/assets/96ca3a3f-36d2-4d35-b5c4-ac7224b9e45b)
 This section displays all stored leads in a structured table format.  
 Users can view Name, Email, Phone Number, and Lead Status.  
 The status can be updated dynamically, and leads can be deleted when no longer required.
