@@ -97,7 +97,7 @@ Users can also quickly add new leads using the input fields provided.
 ### 📋 3. Leads Management Page
 
 ![Leads Page]!
-[screenshot3](https://github.com/user-attachments/assets/96ca3a3f-36d2-4d35-b5c4-ac7224b9e45b)
+![screenshot3](https://github.com/user-attachments/assets/f7ed4cd6-57f9-4801-a056-db0831c2efde)
 This section displays all stored leads in a structured table format.  
 Users can view Name, Email, Phone Number, and Lead Status.  
 The status can be updated dynamically, and leads can be deleted when no longer required.
